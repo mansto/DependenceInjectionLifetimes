@@ -1,1 +1,1 @@
-Einfaches Beispiel zum Thema .NETCore Dependency Injection Lifetimes.
+Simple example on .NETCore Dependency Injection Lifetimes.
